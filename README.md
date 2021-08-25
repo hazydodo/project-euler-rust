@@ -1,3 +1,2 @@
 ﻿# project-euler-rust
-Solutions to project euler problems.
-DISCLAIMER: NOT the best methods, usually brute force and inefficient.
+Solutions to project euler problems. This are NOT the best methods to go about this, usually I use brute force and it is very inefficient.
